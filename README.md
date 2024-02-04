@@ -6,7 +6,7 @@
 
 -   Create a  file using touch file1.txt and open it by nano file1.txt
 
-​            !![](Screenshot 2024-02-02 151237.png)
+​            !![](.\Screenshot 2024-02-02 151237.png)
 
 -  Create second file using touch file2.txt and open it by nano file2.txt
 
